@@ -1,2 +1,1 @@
-# Curso-Henry
-curso de programacion henry modulo2
+Este proyecto es una prueba para crear y clonar un repositorio en github
